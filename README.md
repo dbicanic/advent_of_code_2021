@@ -1,2 +1,3 @@
-# advent_of_code_2021
-My solutions to the advent of code
+# Advent of Code 2021
+
+To run the script do `ruby day_n.rb` in the command line.
