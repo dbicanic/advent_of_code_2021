@@ -12,6 +12,7 @@ end
 
 def sum_arrays
   return @sum_arrays if defined? @sum_arrays
+  
   @sum_arrays = begin
     input_array.each_with_index.map do |input, index|
       number_array = input_array[index..(index + 2)]
